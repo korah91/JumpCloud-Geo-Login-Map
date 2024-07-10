@@ -23,7 +23,7 @@ I made this cause I was bored and wanted to do something with JumpCloud. It was 
 
 The tool works as expected, but maybe expect bugs :)
 
-![Demostration](demo-map-login-attempts.gif)
+![Demostration](https://github.com/korah91/JumpCloud-Geo-Login-Map/blob/main/demo%20map%20login%20attempts.gif)
 
 # Installation
 

@@ -21,7 +21,7 @@ I made this cause I was bored and wanted to do something with JumpCloud. It was 
 - .env: Configuration file for storing environment variables like the JumpCloud API key.
 
 
-The tool works as expected, but maybe expect bugs :)
+The tool works as expected, but there may be bugs :)
 
 ![Demostration](https://github.com/korah91/JumpCloud-Geo-Login-Map/blob/main/demo%20map%20login%20attempts.gif)
 

@@ -23,6 +23,8 @@ I made this cause I was bored and wanted to do something with JumpCloud. It was 
 
 The tool works as expected, but maybe expect bugs :)
 
+![Demostration](demo map login attempts.gif)
+
 # Installation
 
 Clone the repository:

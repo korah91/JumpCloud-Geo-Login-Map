@@ -1,6 +1,7 @@
 # JumpCloud-Geo-Login-Map
 Python Flask tool for tracking all the login attempts to a JumpCloud Tenant in a map using JumpCloud's API. 
-I made this cause I was bored and wanted to do something with JumpCloud. It was approximately 15 hours and is intended to showcase my skills in APIs and IAM
+I made this cause I was bored and wanted to do something with JumpCloud. It was approximately 15 hours and is intended to showcase my skills in APIs and IAM.
+I have used this in real projects, but the data shown in the gif was randomized
 
 ## Features
 - Retrieve Login Attempts from the JumpCloud API.

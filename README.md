@@ -1,12 +1,14 @@
 # JumpCloud-Geo-Login-Map
 Python Flask tool for tracking all the login attempts to a JumpCloud Tenant in a map using JumpCloud's API. 
 I made this cause I was bored and wanted to do something with JumpCloud. It was approximately 15 hours and is intended to showcase my skills in APIs and IAM.
-I have used this in real projects, but the data shown in the gif was randomized
+I have used this in real projects, but the data shown in the gif was randomized for privacy purposes.
+
+## 
 
 ## Features
 - Retrieve Login Attempts from the JumpCloud API.
-- Geographical Visualization on an interactive map using [Folium Python library]([url](https://python-visualization.github.io/folium/latest/)).
-- Custom Date Range: Adjust the date range to view specific login attempts. API Restriction of 90 day old logs
+- Geographical Visualization on an interactive map using [Folium Python library]([url](https://python-visualization.github.io/folium/latest/)) of all login attempts.
+- Custom Date Range: Adjust the date range to view specific login attempts. API Restriction is of 90 day old logs
 - Color-coded Markers: Differentiate between successful (green) and failed (red) login attempts with color-coded markers in the map.
 
 ## Requirements
